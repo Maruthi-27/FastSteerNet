@@ -1,0 +1,34 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.python-version
+
+# PyTorch and model artifacts
+*.pt
+*.pth
+*.pkl
+*.h5
+*.ckpt
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
